@@ -145,7 +145,7 @@ img {
 .h-4,
 .h-5,
 .h-6 {
-  grir-row: span 1;
+  grid-row: span 1;
 }
 
 /* begin media queries for large screens */
